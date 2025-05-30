@@ -180,7 +180,7 @@ __Are people friendly in the issues, discussion forum, and chat (for example, IR
 포럼과 GitHub 모두 예의 바르고 협력적인 분위기.
 
 
-
+ 
 __Do pull requests get reviewed?__
 거의 모든 PR이 리뷰를 받고 있음.
 
